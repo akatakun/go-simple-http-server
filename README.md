@@ -1,2 +1,3 @@
 # go-simple-http-server
-This repository is a simple HTTP server that is created by Go language
+datetime: 2017-06-15 18:58:51
+For my learning
